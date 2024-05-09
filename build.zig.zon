@@ -1,0 +1,16 @@
+.{
+    .name = "ctb",
+    .version = "0.0.1",
+
+    .minimum_zig_version = "0.13.0-dev.75+5c9eb4081",
+
+    .dependencies = .{},
+
+    .paths = .{
+        "",
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "MIT-LICENSE",
+    },
+}
